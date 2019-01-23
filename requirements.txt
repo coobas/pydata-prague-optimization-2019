@@ -1,0 +1,9 @@
+dask[complete]
+ipython
+jupyter
+numba
+Cython
+pandas
+matplotlib
+seaborn
+ipython_memory_usage
