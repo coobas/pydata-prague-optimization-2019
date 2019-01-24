@@ -1,2 +1,3 @@
-# pydata-prague-2019
-PyData Prague meetup presentation
+# Optimizing numerical calculations in Python
+
+Slides for the PyData Prague meetup presentation, Jan 23 2019.
